@@ -4,7 +4,7 @@ This repository contains the supporting material and codes to reproduce most of 
 
 ## Pre-requisites
 
-It is mandatory to install [Firedrake](https://www.firedrakeproject.org/) beforehand, [see here](https://www.firedrakeproject.org/download.html) for installation instructions. After the Firedrake installation, please install the additional dependencies required to run all the codes:
+It is mandatory to install [Firedrake](https://www.firedrakeproject.org/) beforehand, [see here](https://www.firedrakeproject.org/download.html) for installation instructions. After the Firedrake installation, please activate the Firedrake virtual env and then install the additional dependencies required to run all the codes:
 
 ```shell
 pip install -r requirements.txt
