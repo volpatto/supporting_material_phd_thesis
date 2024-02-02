@@ -1,5 +1,7 @@
 # Supporting material
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10608241.svg)](https://doi.org/10.5281/zenodo.10608241)
+
 This repository contains the supporting material and codes to reproduce most of the results presented in my thesis.
 
 ## Pre-requisites
